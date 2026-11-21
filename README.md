@@ -3,8 +3,6 @@
 **A campaign workspace for Dungeon Masters, in a single HTML file.**
 Sessions, characters, quests, locations, maps, fights and notes in one place. No server, no account, no install, and it works offline.
 
-![Dashboard](docs/screenshots/dashboard.png)
-
 ---
 
 ## Features
@@ -21,13 +19,6 @@ Sessions, characters, quests, locations, maps, fights and notes in one place. No
 - **AI-friendly data format:** a documented JSON format, so tools or AI agents can turn a PDF or session notes into importable data.
 - **Demo campaign:** one click loads a fully filled example campaign.
 
-| Combat Tracker | Bestiary |
-|---|---|
-| ![Combat tracker](docs/screenshots/combat-tracker.png) | ![Bestiary](docs/screenshots/bestiary.png) |
-| **Party overview** | **Adventure Log** |
-| ![Party](docs/screenshots/party.png) | ![Adventure log](docs/screenshots/adventure-log.png) |
-| **Location map with notes** | |
-| ![Map notes](docs/screenshots/map-notes.png) | |
 
 ---
 
@@ -93,7 +84,6 @@ Give an AI agent that document plus your material (for example a PDF with all ch
 dm-companion.html              the complete app (HTML, CSS, JS and SRD data in one file)
 DM_COMPANION_MANUAL.md         user manual
 DM_COMPANION_DATA_FORMAT.md    data format specification
-docs/screenshots/              images used in this README
 README.md
 ```
 
