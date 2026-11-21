@@ -85,6 +85,7 @@ dm-companion.html              the complete app (HTML, CSS, JS and SRD data in o
 DM_COMPANION_MANUAL.md         user manual
 DM_COMPANION_DATA_FORMAT.md    data format specification
 README.md
+LICENSE                        MIT license (+ SRD 5.1 attribution)
 ```
 
 ## Browser Support
@@ -105,4 +106,4 @@ README.md
 - Optional online monster search via [Open5e](https://open5e.com/).
 - Dungeons & Dragons is a trademark of Wizards of the Coast. This project is not affiliated with or endorsed by Wizards of the Coast.
 
-**License:** _TODO: choose a license for the app code (e.g. MIT) and add a `LICENSE` file._ The SRD content stays under CC-BY-4.0 regardless of the license you choose.
+**License:** the app is released under the [MIT License](LICENSE). The included SRD 5.1 content (monster stat blocks, condition rules) remains under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
